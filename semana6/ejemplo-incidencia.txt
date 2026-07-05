@@ -1,0 +1,7 @@
+POST http://localhost:3000/incidencia
+content-Type: application/json
+
+{
+  "tipo": "Seguridad en la ciudad",
+  "descripcion": "La comunidad informa que en la comuna 1 hay una balacera entre diferentes bandas criminales."
+}
